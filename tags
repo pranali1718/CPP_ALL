@@ -1,0 +1,201 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	accs.cpp	/^class A{$/;"	c	file:
+A	quiz.cpp	/^class A$/;"	c	file:
+ABC	pp.c++	/^class ABC{$/;"	c	file:
+ABC	ppp.cpp	/^class ABC$/;"	c	file:
+AddRecord	file_handling.cpp	/^public:void AddRecord()$/;"	f	class:student
+Animal	animal.cpp	/^class Animal$/;"	c	file:
+B	quiz.cpp	/^class B$/;"	c	file:
+Base	c.cpp	/^	Base()$/;"	f	class:Base
+Base	c.cpp	/^class Base$/;"	c	file:
+C	quiz.cpp	/^class C : public A$/;"	c	file:
+Car	hyb.cpp	/^    class Car: public vehicle  $/;"	c	file:
+Car	hyb.cpp	/^    void Car()  $/;"	f	class:Car
+CounterNameSpace	24_namespace_user_defined.cpp	/^namespace CounterNameSpace$/;"	n	file:
+D	quiz.cpp	/^class D : public B$/;"	c	file:
+DailyTemp	store_cls_obj_in_vector.cpp	/^	DailyTemp()$/;"	f	class:DailyTemp
+DailyTemp	store_cls_obj_in_vector.cpp	/^	DailyTemp(int x)	$/;"	f	class:DailyTemp
+DailyTemp	store_cls_obj_in_vector.cpp	/^class DailyTemp$/;"	c	file:
+Date	date.cpp	/^class Date{$/;"	c	file:
+Derived	c.cpp	/^Derived()$/;"	f	class:Derived
+Derived	c.cpp	/^Derived(int i)$/;"	f	class:Derived
+Derived	c.cpp	/^class Derived : public Base$/;"	c	file:
+Display	pp.c++	/^void Display(){$/;"	f	class:ABC
+Display	ppp.cpp	/^	void Display()$/;"	f	class:ABC
+Divide	exception.cpp	/^	Divide()$/;"	f	class:Divide
+Divide	exception.cpp	/^class Divide$/;"	c	file:
+Dog	animal.cpp	/^class Dog : public Animal$/;"	c	file:
+E	quiz.cpp	/^class E :public C,public D$/;"	c	file:
+Edge	25_store_graph_str?_edge.cpp	/^ struct Edge$/;"	s	file:
+Edge	25_stroe_graph_str_edge.cpp	/^struct Edge$/;"	s	file:
+F	quiz.cpp	/^class F :public E$/;"	c	file:
+Ferrari	hyb.cpp	/^    class Ferrari: public Car, public Racing  $/;"	c	file:
+Ferrari	hyb.cpp	/^    void Ferrari()  $/;"	f	class:Ferrari
+Fuel	mul.cpp	/^class Fuel {$/;"	c	file:
+Graph	25_store_graph_str?_edge.cpp	/^	Graph(vector<Edge>const &edges,int n)$/;"	f	class:Graph
+Graph	25_store_graph_str?_edge.cpp	/^class Graph$/;"	c	file:
+Graph	25_stroe_graph_str_edge.cpp	/^	Graph(vector<Edge>const &edges,int n)$/;"	f	class:Graph
+Graph	25_stroe_graph_str_edge.cpp	/^class Graph$/;"	c	file:
+Liquid	mul.cpp	/^class Liquid {$/;"	c	file:
+Pair	25_store_graph_str?_edge.cpp	/^typedef pair<int,int>Pair;$/;"	t	file:
+Pair	25_stroe_graph_str_edge.cpp	/^typedef pair<int,int>Pair;$/;"	t	file:
+Petrol	mul.cpp	/^class Petrol : public Liquid, public Fuel {$/;"	c	file:
+Protfunc	pp.c++	/^void Protfunc(){$/;"	f	class:ABC
+Protfunc	ppp.cpp	/^	void Protfunc()$/;"	f	class:ABC
+Racing	hyb.cpp	/^    class Racing  $/;"	c	file:
+Racing	hyb.cpp	/^    void Racing()  $/;"	f	class:Racing
+Swap	temp_static.cpp	/^void Swap(X &a,X &b)$/;"	f
+Swap	temp_static.cpp	/^void Swap(int &a,int &b)$/;"	f
+Time	date.cpp	/^class Time$/;"	c	file:
+XYZ	pp.c++	/^class XYZ : public ABC{$/;"	c	file:
+XYZ	ppp.cpp	/^class XYZ : public ABC$/;"	c	file:
+adjList	25_store_graph_str?_edge.cpp	/^	vector<vector<Pair>> adjList;$/;"	m	class:Graph	file:
+adjList	25_stroe_graph_str_edge.cpp	/^	vector<vector<Pair>> adjList;$/;"	m	class:Graph	file:
+base	cbb.c++	/^class base$/;"	c	file:
+compute	vfun.cpp	/^void compute()$/;"	f	class:f_c
+compute	vfun.cpp	/^void compute()$/;"	f	class:l_g
+convert	vfun.cpp	/^class convert$/;"	c	file:
+convert	vfun.cpp	/^convert(double i)$/;"	f	class:convert
+count	24_namespace_user_defined.cpp	/^			int count;$/;"	m	class:CounterNameSpace::counter	file:
+counter	24_namespace_user_defined.cpp	/^				counter(int n)$/;"	f	class:CounterNameSpace::counter
+counter	24_namespace_user_defined.cpp	/^	class counter$/;"	c	namespace:CounterNameSpace	file:
+cube	cube.cpp	/^inline int cube(int s)$/;"	f
+day	date.cpp	/^    int day,month,year;$/;"	m	class:Date	file:
+demo	derivec.cpp	/^		demo(int x)$/;"	f	class:demo
+demo	derivec.cpp	/^class demo$/;"	c	file:
+derived	cbb.c++	/^class derived : private base {	$/;"	c	file:
+derived2	cbb.c++	/^class derived2 : public derived1 {$/;"	c	file:
+dest	25_store_graph_str?_edge.cpp	/^	int src,dest,weight;$/;"	m	struct:Edge	file:
+dest	25_stroe_graph_str_edge.cpp	/^	int src,dest,weight;$/;"	m	struct:Edge	file:
+disp1	animal.cpp	/^		 void disp1()$/;"	f	class:Animal
+disp1	mul.cpp	/^    void disp1() {$/;"	f	class:Liquid
+disp2	animal.cpp	/^		void disp2()$/;"	f	class:Dog
+disp2	mul.cpp	/^    void disp2() {$/;"	f	class:Fuel
+display	file_handling.cpp	/^void display()$/;"	f	class:student
+displayA	quiz.cpp	/^	void displayA()$/;"	f	class:A
+displayB	quiz.cpp	/^	void displayB()$/;"	f	class:B
+displayC	quiz.cpp	/^	void displayC()$/;"	f	class:C
+displayD	quiz.cpp	/^	void displayD()$/;"	f	class:D
+displayE	quiz.cpp	/^	void displayE()$/;"	f	class:E
+displayF	quiz.cpp	/^	void displayF()$/;"	f	class:F
+division	exception.cpp	/^float division()$/;"	f	class:Divide
+f_c	vfun.cpp	/^class f_c : public convert$/;"	c	file:
+f_c	vfun.cpp	/^f_c(double i) : convert(i) { }$/;"	f	class:f_c
+findAGE	date.cpp	/^    Date findAGE(Date dob){$/;"	f	class:Date
+get	23map_storing_class.cpp	/^	char *get()$/;"	f	class:name
+get	23map_storing_class.cpp	/^	char *get()$/;"	f	class:phoneNum
+getDate	date.cpp	/^    Date getDate(){$/;"	f	class:Date
+getMember	nontype.cpp	/^T mySequence<T,N> :: getMember(int x)$/;"	f	class:mySequence
+getTime	date.cpp	/^Time getTime()$/;"	f	class:Time
+get_temp	store_cls_obj_in_vector.cpp	/^	double get_temp()$/;"	f	class:DailyTemp
+getconv	vfun.cpp	/^double getconv()$/;"	f	class:convert
+getdata	derivec.cpp	/^int getdata()$/;"	f	class:demo
+getdata	file_handling.cpp	/^		void getdata()$/;"	f	class:student	file:
+getinit	vfun.cpp	/^double getinit()$/;"	f	class:convert
+hour	date.cpp	/^ int hour, mint, sec;$/;"	m	class:Time	file:
+i	cbb.c++	/^	int i,j;$/;"	m	class:base	file:
+i	derivec.cpp	/^	int i;$/;"	m	class:demo	file:
+j	cbb.c++	/^	int i,j;$/;"	m	class:base	file:
+k	cbb.c++	/^	int k;$/;"	m	class:derived	file:
+l_g	vfun.cpp	/^class l_g : public convert$/;"	c	file:
+l_g	vfun.cpp	/^l_g(double i) : convert(i) { }$/;"	f	class:l_g
+legs	animal.cpp	/^		int legs=4;$/;"	m	class:Animal	file:
+lowerbound	24_namespace_user_defined.cpp	/^	int lowerbound;$/;"	m	namespace:CounterNameSpace	file:
+m	cbb.c++	/^	int m;$/;"	m	class:derived2	file:
+m_protMemb	pp.c++	/^int m_protMemb;$/;"	m	class:ABC	file:
+m_protMemb	ppp.cpp	/^	int m_protMemb;$/;"	m	class:ABC	file:
+main	1.cpp	/^int main()$/;"	f
+main	23_list.cpp	/^int main()$/;"	f
+main	23_list_sort.cpp	/^int main()$/;"	f
+main	23_map.cpp	/^int main()$/;"	f
+main	23map_storing_class.cpp	/^int main()$/;"	f
+main	24_namespace_user_defined.cpp	/^int main()$/;"	f
+main	25_store_graph_str?_edge.cpp	/^int main()$/;"	f
+main	25_stroe_graph_str_edge.cpp	/^int main()$/;"	f
+main	access_throgh_iterator.cpp	/^int main()$/;"	f
+main	animal.cpp	/^main()$/;"	f
+main	c.cpp	/^int main()$/;"	f
+main	cbb.c++	/^int main()$/;"	f	class:derived2
+main	cube.cpp	/^int main() {$/;"	f
+main	date.cpp	/^int main() $/;"	f
+main	derivec.cpp	/^int main()$/;"	f
+main	exception.cpp	/^int main()$/;"	f
+main	file_handling.cpp	/^int main()$/;"	f
+main	hyb.cpp	/^    int main() {  $/;"	f
+main	mul.cpp	/^int main() {$/;"	f
+main	nontype.cpp	/^int main()$/;"	f
+main	ppp.cpp	/^int main()$/;"	f
+main	quiz.cpp	/^int main()$/;"	f
+main	remove_copy.cpp	/^int main()$/;"	f
+main	store_cls_obj_in_vector.cpp	/^int main()$/;"	f
+main	temp.cpp	/^int main()$/;"	f
+main	temp_static.cpp	/^int main()$/;"	f
+main	vector.cpp	/^int main()$/;"	f
+main	vfun.cpp	/^int main()$/;"	f
+marks	file_handling.cpp	/^		int roll;char name[25];float marks;$/;"	m	class:student	file:
+memblock	nontype.cpp	/^	T memblock [N];$/;"	m	class:mySequence	file:
+mint	date.cpp	/^ int hour, mint, sec;$/;"	m	class:Time	file:
+month	date.cpp	/^    int day,month,year;$/;"	m	class:Date	file:
+mySequence	nontype.cpp	/^class mySequence$/;"	c	file:
+name	23map_storing_class.cpp	/^	name(char *s)$/;"	f	class:name
+name	23map_storing_class.cpp	/^	public :name()$/;"	f	class:name
+name	23map_storing_class.cpp	/^class name$/;"	c	file:
+name	file_handling.cpp	/^		int roll;char name[25];float marks;$/;"	m	class:student	file:
+operator <	23map_storing_class.cpp	/^bool operator<(name a,name b)$/;"	f
+operator <	store_cls_obj_in_vector.cpp	/^bool operator<(DailyTemp a,DailyTemp b)$/;"	f
+operator =	store_cls_obj_in_vector.cpp	/^	DailyTemp &operator=(int x)$/;"	f	class:DailyTemp
+operator ==	store_cls_obj_in_vector.cpp	/^bool operator==(DailyTemp a,DailyTemp b)$/;"	f
+phoneNum	23map_storing_class.cpp	/^	phoneNum(char *s)$/;"	f	class:phoneNum
+phoneNum	23map_storing_class.cpp	/^	public:phoneNum()$/;"	f	class:phoneNum
+phoneNum	23map_storing_class.cpp	/^class phoneNum$/;"	c	file:
+printGraph	25_store_graph_str?_edge.cpp	/^void printGraph(Graph const &graph,int n)$/;"	f
+printGraph	25_stroe_graph_str_edge.cpp	/^void printGraph(Graph const &graph,int n)$/;"	f
+reset	24_namespace_user_defined.cpp	/^			void reset(int n)$/;"	f	class:CounterNameSpace::counter
+roll	file_handling.cpp	/^		int roll;char name[25];float marks;$/;"	m	class:student	file:
+run	24_namespace_user_defined.cpp	/^			int run()$/;"	f	class:CounterNameSpace::counter
+sec	date.cpp	/^ int hour, mint, sec;$/;"	m	class:Time	file:
+set	cbb.c++	/^	void set(int a, int b){i=a;j=b;}$/;"	f	class:base
+setDOB	date.cpp	/^    Date setDOB(Date d1){$/;"	f	class:Date
+setDate	date.cpp	/^    void setDate(){$/;"	f	class:Date
+setMember	nontype.cpp	/^void mySequence<T,N> :: setMember(int x,T value)$/;"	f	class:mySequence
+setProtMemb	ppp.cpp	/^	void setProtMemb(int i)$/;"	f	class:ABC
+setProtbMemb	pp.c++	/^	void setProtbMemb(int i){$/;"	f	class:ABC
+setTime	date.cpp	/^ void setTime(){$/;"	f	class:Time
+setk	cbb.c++	/^	void setk() {k = i*j;}$/;"	f	class:derived
+setm	cbb.c++	/^	void setm() { m= i-j;}$/;"	f	class:derived2
+show	cbb.c++	/^	void show() {	cout << i <<" "<< j << "\\n" ;}$/;"	f	class:base
+showk	cbb.c++	/^	void showk(){ cout << k <<"\\n";}$/;"	f	class:derived
+showm	cbb.c++	/^	void showm() { cout << m << "\\n";}$/;"	f	class:derived2
+sleepTime	date.cpp	/^Time sleepTime(Time napTime, Time wakeup)$/;"	f	class:Time
+src	25_store_graph_str?_edge.cpp	/^	int src,dest,weight;$/;"	m	struct:Edge	file:
+src	25_stroe_graph_str_edge.cpp	/^	int src,dest,weight;$/;"	m	struct:Edge	file:
+str	23map_storing_class.cpp	/^	char str[40];$/;"	m	class:name	file:
+str	23map_storing_class.cpp	/^	char str[80];$/;"	m	class:phoneNum	file:
+student	file_handling.cpp	/^class student$/;"	c	file:
+sum	temp.cpp	/^void sum(T1 a,T1 b,T1 c)$/;"	f
+sum	temp.cpp	/^void sum(T1 a,T2 b,T1 c)$/;"	f
+sum	temp.cpp	/^void sum(int a,int b)$/;"	f
+tail	animal.cpp	/^		int tail=1;$/;"	m	class:Dog	file:
+temp	store_cls_obj_in_vector.cpp	/^	int temp;$/;"	m	class:DailyTemp	file:
+upperbound	24_namespace_user_defined.cpp	/^	int upperbound;	$/;"	m	namespace:CounterNameSpace	file:
+useProtfunc	ppp.cpp	/^	void useProtfunc()$/;"	f	class:XYZ
+var1	vfun.cpp	/^double var1, var2;$/;"	m	class:convert	file:
+var2	vfun.cpp	/^double var1, var2;$/;"	m	class:convert	file:
+vehicle	hyb.cpp	/^     void vehicle()  $/;"	f	class:vehicle
+vehicle	hyb.cpp	/^    class vehicle  $/;"	c	file:
+weight	25_store_graph_str?_edge.cpp	/^	int src,dest,weight;$/;"	m	struct:Edge	file:
+weight	25_stroe_graph_str_edge.cpp	/^	int src,dest,weight;$/;"	m	struct:Edge	file:
+x	accs.cpp	/^	 public: x;$/;"	m	class:A	file:
+x	c.cpp	/^	int x;$/;"	m	class:Base	file:
+x	exception.cpp	/^		int *x;$/;"	m	class:Divide	file:
+y	accs.cpp	/^	 protected : y;$/;"	m	class:A	file:
+y	c.cpp	/^	int y;$/;"	m	class:Derived	file:
+y	exception.cpp	/^		int *y;$/;"	m	class:Divide	file:
+year	date.cpp	/^    int day,month,year;$/;"	m	class:Date	file:
+z	accs.cpp	/^	 private : z;$/;"	m	class:A	file:
+~Divide	exception.cpp	/^~Divide()$/;"	f	class:Divide
